@@ -13,9 +13,6 @@ crescimento profissional. Focado em <strong>Front-end Web</strong>, mas com o in
 <h3>Redes sociais e contatos </h3>
 <br>
 
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63127594?s=400&v=4" width="100px;" alt=""/>
-<br />
-
 
 <a href="https://www.linkedin.com/in/filipe-almeida-amaral/">
 
